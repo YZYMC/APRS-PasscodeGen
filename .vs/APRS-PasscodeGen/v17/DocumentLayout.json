@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yzymc\\git\\APRS-PasscodeGen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78C3810-70A2-4ECF-A88B-9460EE07B774}|APRS-PasscodeGen\\APRS-PasscodeGen.vcxproj|C:\\Users\\yzymc\\git\\APRS-PasscodeGen\\APRS-PasscodeGen\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F78C3810-70A2-4ECF-A88B-9460EE07B774}|APRS-PasscodeGen\\APRS-PasscodeGen.vcxproj|solutionrelative:APRS-PasscodeGen\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yzymc\\git\\APRS-PasscodeGen\\APRS-PasscodeGen\\main.cpp",
+              "RelativeDocumentMoniker": "APRS-PasscodeGen\\main.cpp",
+              "ToolTip": "C:\\Users\\yzymc\\git\\APRS-PasscodeGen\\APRS-PasscodeGen\\main.cpp",
+              "RelativeToolTip": "APRS-PasscodeGen\\main.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T02:14:10.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
